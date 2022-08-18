@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @sophea-bonne
+## Hi there, thanks for swinging by! 
+- 👋 My name's **Sophea**.
 - 👀 I’m passionate about data science and machine learning.
 - 🌱 I recently graduated from U.C. Berkeley, where I studied Industrial Engineering and Operations Research (IEOR) with a focus on Data Science and Machine Learning. Previously, I worked as a Data Scientist intern at Southern California Edison and a research student at Berkeley Artificial Intelligence Research (BAIR).
 - 💞️ I’m actively looking for opportunities in data science or operations research, in an industry that could benefit from a deep understanding of its data or a few good lines of code. **Let's talk! :)**<br>
