@@ -4,15 +4,17 @@
 - 💞️ I’m actively looking for opportunities in data science or operations research, in an industry that could benefit from a deep understanding of its data or a few good lines of code. **Let's talk! :)**<br>
 - 📫 How to reach me: email bonnesophea@berkeley.edu
 
-## How I speak to humans 🗣
-🇬🇧🇺🇸 Native <br>
-🇨🇭🇫🇷 Proficient <br>
 
 ## How I speak to machines 🤖
 🐍 [Data science & ML] Python, Jupyter Notebooks, + Data Science & ML Packages <br>
 ⚙️ SQL, mySQL <br>
 🎨 Excel, Tableau, Power BI <br>
 💎 MATLAB <br>
+
+## How I speak to humans 🗣
+🇬🇧🇺🇸 Native <br>
+🇨🇭🇫🇷 Proficient <br>
+
 
 ## How to reach me 📫 (please do!)
 linkedin - /sophea-bonne <br>
