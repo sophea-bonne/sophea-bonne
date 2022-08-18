@@ -7,7 +7,7 @@
 
 
 ## How I speak to machines 🤖
-🐍 [Data science & ML] Python, Jupyter Notebooks, + Data Science & ML Packages <br>
+🐍 Python, Jupyter Notebooks, + Data Science & ML Packages <br>
 ⚙️ SQL, mySQL <br>
 🎨 Excel, Tableau, Power BI <br>
 💎 MATLAB <br>
